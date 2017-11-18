@@ -1,5 +1,5 @@
 //= require modernizr
-//= require bootstrap
+//= require bootstrap4
 //= require handlebars
 //= require jquery
 //= require jquery.cookie
