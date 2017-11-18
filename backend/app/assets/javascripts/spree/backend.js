@@ -1,5 +1,5 @@
 //= require modernizr
-//= require bootstrap-sprockets
+//= require bootstrap
 //= require handlebars
 //= require jquery
 //= require jquery.cookie

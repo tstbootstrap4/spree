@@ -1,4 +1,4 @@
-//= require bootstrap-sprockets
+//= require bootstrap
 //= require jquery.payment
 //= require spree
 //= require spree/frontend/cart
